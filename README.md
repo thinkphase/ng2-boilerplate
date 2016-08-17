@@ -20,6 +20,7 @@ Take a look here:
 
 
 ## Contributing
+## This is a Test of edit from Jide
 
 * [Bug reports](CONTRIBUTING.md#bugs)
 * [Feature requests](CONTRIBUTING.md#features)
