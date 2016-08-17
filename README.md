@@ -5,7 +5,7 @@
 
 ## Features
 
-* HTML5 ready.
+* NG2 Humble Beginnings
 
 
 ## Browser support
@@ -17,7 +17,7 @@
 ## Documentation
 
 Take a look here: 
-
+<we need to add something here guys, please. Docs are important>
 
 ## Contributing
 
