@@ -17,7 +17,7 @@
 ## Documentation
 
 Take a look here: 
-<we need to add something here guys, please. Docs are important>
+we need to add something here guys, please. Docs are important
 
 ## Contributing
 ## This is a Test of edit from Jide
